@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@100&display=swap');
+body{
+    margin: 5px;
+    font-family: Poppins;
+}
+#cabecalho{
+    top: 32px;
+    left: 409px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+}
+.color-blue{
+    color: #3662FF;
+}
+#sobrenos{
+    color: white;
+    background-color: #3662FF;
+    height: 176px;
+    line-height: 30px;
+    gap: 5px;
+    padding: 3px;
+    font-size: 16px;
+}
+.rodape{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 56px;
+    gap: 10px;
+    
+}
+#span{
+    padding-top: 18px;
+}
+.lista{
+    line-height: 30px;
+}
